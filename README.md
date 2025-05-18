@@ -1,6 +1,6 @@
 backend ,  login , register , crud
 
-all the commands 
+#all the commands 
 docker run -d -p 27017:27017 mongo
 \
 npm create vite@latest
